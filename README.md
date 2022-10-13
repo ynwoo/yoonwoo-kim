@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yoonwoo-kim/yoonwoo-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=phsk71)](https://solved.ac/phsk71)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoonwoo-kim&theme=onedark&title=MultiLanguage,Commits,Repository,PullRequest)](https://github.com/ryo-ma/github-profile-trophy) 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoonwoo-kim&show_icons=true&theme=gruvbox)](https://github.com/yoonwoo-kim/github-readme-stats) 
