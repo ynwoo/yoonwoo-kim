@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### ☺️ Introduce Myself
 
-오늘 도전하는 개발자 **김윤우**입니다.
+오늘 하나라도 도전하는 개발자 **김윤우**입니다.
 
 맛있게 먹는 사람을 보면 주위 사람들도 배고파지듯이, 
 
