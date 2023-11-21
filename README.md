@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hello%20world,%20I'm%20yoonwoo&fontSize=40)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonwoo-kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yoonwoo-kim)
-![GitHub followers](https://img.shields.io/github/followers/yoonwoo-kim?style=social)
-
 ### 🚶 <a href="https://yoonwookim.notion.site/yoonwookim/a0f71940713b4fec93e6633d30b47bc5">CV</a>
 
 ### ☺️ Introduce Myself
