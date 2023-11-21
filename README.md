@@ -58,12 +58,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
 
-
-### 📧 Please contact me.
-<!-- <a href="https://velog.io/@yoonwoo-kim"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Bitdefender&logoColor=white"/></a> -->
-<a href="https://github.com/yoonwoo-kim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="mailto:ynwookim98@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
 ### ⚡ etc
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoonwoo-kim&theme=onedark&title=MultiLanguage,Commits,Repository,PullRequest)](https://github.com/ryo-ma/github-profile-trophy) 
